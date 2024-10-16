@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.daraz.com.bd",
+    "name": "Daraz Bangladesh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Daraz_Logo.png",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "username": "Rahim Ahmed",
+        "userReview": "Wide variety of products and decent customer service."
+      },
+      {
+        "username": "Fatima Rahman",
+        "userReview": "Fast delivery, but sometimes product quality varies."
+      }
+    ],
+    "authorisationInfo": {
+      "authorisedByGovt": true,
+      "authorisedByPaymentGateway": true
+    }
+  },
+  {
+    "url": "https://www.pickaboo.com",
+    "name": "Pickaboo",
+    "image": "https://w7.pngwing.com/pngs/48/1019/png-transparent-bangladesh-pickaboo-com-online-shopping-magento-service-others-blue-company-text.png",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "username": "Alif Chowdhury",
+        "userReview": "Awesome platform for gadgets and electronics."
+      },
+      {
+        "username": "Mehedi Hasan",
+        "userReview": "Good deals but delivery times are inconsistent."
+      }
+    ],
+    "authorisationInfo": {
+      "authorisedByGovt": true,
+      "authorisedByPaymentGateway": false
+    }
+  },
+  {
+    "url": "https://www.rokomari.com",
+    "name": "Rokomari",
+    "image": "https://iconape.com/wp-content/png_logo_vector/rokomari-logo.png",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "username": "Tania Islam",
+        "userReview": "Best place for book lovers in Bangladesh!"
+      },
+      {
+        "username": "Nazmul Hossain",
+        "userReview": "Amazing service and great book collection."
+      }
+    ],
+    "authorisationInfo": {
+      "authorisedByGovt": false,
+      "authorisedByPaymentGateway": true
+    }
+  },
+  {
+    "url": "https://www.evaly.com.bd",
+    "name": "Evaly",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evaly_logo.svg/512px-Evaly_logo.svg.png",
+    "rating": 3.8,
+    "reviews": [
+      {
+        "username": "Sumaiya Khatun",
+        "userReview": "Good deals but recent service issues."
+      },
+      {
+        "username": "Asif Mahmud",
+        "userReview": "Prices are great but faced long delays in delivery."
+      }
+    ],
+    "authorisationInfo": {
+      "authorisedByGovt": false,
+      "authorisedByPaymentGateway": false
+    }
+  }
+]
